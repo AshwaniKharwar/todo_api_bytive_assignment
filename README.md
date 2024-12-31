@@ -16,7 +16,7 @@ Before running this project, ensure you have the following installed:
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/todo_api.git
+   git clone https://github.com/AshwaniKharwar/todo_api_bytive_assignment.git
    cd todo_api
    ```
 
