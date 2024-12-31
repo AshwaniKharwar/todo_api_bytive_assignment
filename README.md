@@ -58,7 +58,7 @@ Before running this project, ensure you have the following installed:
 ## API Endpoints
 
 ### Authentication Routes
-- **POST** `/auth/signup` - Register a new user.
+- **POST** `/auth/register` - Register a new user.
 - **POST** `/auth/login` - Log in an existing user.
 
 ### Task Routes (Protected)
